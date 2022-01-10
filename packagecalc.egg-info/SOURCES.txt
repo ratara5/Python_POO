@@ -1,0 +1,8 @@
+setup.py
+package/__init__.py
+package/calfunmod.py
+package/usemods.py
+packagecalc.egg-info/PKG-INFO
+packagecalc.egg-info/SOURCES.txt
+packagecalc.egg-info/dependency_links.txt
+packagecalc.egg-info/top_level.txt
